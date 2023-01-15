@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 My current work: IT infrastructure engineer
+- 🌱 What I am learning: Python at <a href="https://www.hyperiondev.com/bootcamps/software-engineering/">HyperionDev</a>, this is <a href="https://www.hyperiondev.com/portfolio/101290/">my portfolio there</a>  
+- 💬 Ask me about anything
+- 😄 Pronouns: he
+- ⚡ Fun fact: I like to know fun fact
